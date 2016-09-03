@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- toolbar（actionbar）颜色 -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <!--toolbar标题文字颜色-->
+        <item name="android:textColorPrimary">@android:color/black</item>
+    </style>
+</resources>
